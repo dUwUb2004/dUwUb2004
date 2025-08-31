@@ -11,5 +11,4 @@
 <p align="left">
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=duwub2004&show_icons=tr
-           ue&locale=en" alt="duwub2004" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=duwub2004&show_icons=tr ue&locale=en" alt="duwub2004" /></p>
